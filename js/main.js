@@ -5,3 +5,4 @@ function suma(firstNumber, secondNumber){
     let result = firstNumber + secondNumber;
     return result;
 }
+console.log(suma(firstNumber, secondNumber));
